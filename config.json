@@ -1,0 +1,97 @@
+{
+  "model_path": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "block_samples": 2000,
+  "command_cooldown_sec": 1.2,
+  "continuous_use_partial": false,
+  "log_file": "spotify-voice-control.log",
+  "log_level": "INFO",
+  "tray": true,
+  "spotify": {
+    "use_api": false,
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "http://127.0.0.1:8888/callback",
+    "cache_path": "spotify_token.cache",
+    "launch_exe": ""
+  },
+  "commands": {
+    "next": [
+      "skip to the next song",
+      "go to the next track",
+      "play the next one",
+      "play the next song",
+      "i want the next song",
+      "skip this song",
+      "skip to the next",
+      "the next one",
+      "next one",
+      "next track",
+      "next song",
+      "skip song",
+      "move forward",
+      "go forward",
+      "forward a song",
+      "forward track"
+    ],
+    "previous": [
+      "go back a song",
+      "go back to the last",
+      "play the previous one",
+      "play the last song",
+      "back to the last song",
+      "the last one",
+      "last one",
+      "previous one",
+      "previous track",
+      "last track",
+      "previous song",
+      "last song",
+      "go back",
+      "back a song",
+      "back one song",
+      "back track"
+    ],
+    "play": [
+      "play music",
+      "resume music",
+      "resume playback",
+      "start the music",
+      "start music",
+      "start playing",
+      "continue music",
+      "continue playing",
+      "keep playing",
+      "unpause"
+    ],
+    "pause": [
+      "stop the music",
+      "stop playback",
+      "pause playback",
+      "toggle play pause",
+      "toggle pause",
+      "pause the music",
+      "pause the song",
+      "pause it",
+      "pause music",
+      "pause song",
+      "play pause"
+    ],
+    "connect": [
+      "connect to spotify",
+      "log in to spotify",
+      "login to spotify",
+      "authorize spotify",
+      "link my spotify",
+      "spotify login"
+    ],
+    "open_spotify": [
+      "open the spotify app",
+      "open spotify",
+      "launch spotify",
+      "start spotify",
+      "show spotify",
+      "bring up spotify"
+    ]
+  }
+}
