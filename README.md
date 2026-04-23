@@ -1,11 +1,12 @@
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
+<p align="center">
   <a href="https://github.com/evangruhlkey/spotify-voice-control">
-    <img src="assets/voiceskip-logo.svg" alt="Spotify Voice Control" width="80" height="80">
+    <img src="assets/voiceskip-logo.svg" alt="Spotify Voice Control" width="40" height="40">
   </a>
+</p>
+
+<div align="center">
 
   <h3 align="center">Spotify Voice Control</h3>
 
@@ -18,9 +19,6 @@
   </p>
 </div>
 
-![Spotify Voice Control](assets/image.png)
-
-_Local speech on your PC, then media keys. No cloud for recognition._
 
 ### Built With
 
