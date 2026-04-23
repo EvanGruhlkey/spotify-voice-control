@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/evangruhlkey/spotify-voice-control">
-    <img src="assets/image.png" alt="Spotify Voice Control" width="40" height="40">
+    <img src="assets/image.png" alt="Spotify Voice Control" width="80" height="80">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 - [Vosk](https://alphacephei.com/vosk/) (offline speech)
 - [sounddevice](https://python-sounddevice.readthedocs.io/) and [NumPy](https://numpy.org/)
 - [spotipy](https://github.com/plamere/spotipy) (Spotify Web API when enabled in config)
-- [pystray](https://github.com/moses-palmer/pystray) and [Pillow](https://python-pillow.org/) (system tray)
+- [pystray](https://github.com/moses-palmer/pystray) 
 
 ### Prerequisites
 
