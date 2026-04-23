@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/evangruhlkey/spotify-voice-control">
-    <img src="assets/voiceskip-logo.svg" alt="Spotify Voice Control" width="40" height="40">
+    <img src="assets/image.png" alt="Spotify Voice Control" width="40" height="40">
   </a>
 </p>
 
